@@ -7,11 +7,13 @@
 
 <br>
 
-I'm currently working on [Aya Healthcare](https://github.com/AyaHealthcare/), the largest healthcare staffing company in the United States.
+As a heavy user of Apple's environment in a world where people try to create only one experience for all available platforms, I try to be the person that equilibrates it by bringing our users the best possible experience according to their platform.
 
-Flutter into Aya Healthcare is an incoming technology that is growing and taking advantage of other stacks. I came as a specialist to help them to make the best use of it. We are re-skinning some applications and building a common design system package to be used across them.
+Regarding releases, I have experience in both Apple and Google Play stores, beyond other kinds of application deployments like websites and APIs.
 
-That is my first full-time performance in an international team, where all the communication is entirely in English.
+Also, I have already worked with most of Firebase's solutions - like Analytics, Crashlytics, Remote Config (feature flagging), and more.
+
+I do have experience working in international teams, where all the communication is entirely in English.
 
 ## My projects
 
